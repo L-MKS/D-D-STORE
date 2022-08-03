@@ -1,0 +1,5 @@
+Este é um projeto pra Digital Innovation One.
+
+Para abrir a página corretamente utilize "yarn dev" para abrir a pasta da base de dados.
+
+Depois utilize "npm start" para abrir a D&D store com react

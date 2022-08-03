@@ -1,0 +1,54 @@
+.smallBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 370px;
+    height: 370px;
+    background-color: rgba(94, 63, 34, 0.678);
+    border: 3px solid black;
+    border-radius: 50%;
+    margin: 40px;
+  }
+  .img{
+    width: 90%;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pName{
+    margin: 0px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .ProductIMG{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+  }
+  .buyDiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .price{
+    margin: 8px;
+    color: white;
+    font-size: 20px;
+  }
+  .InvisibleBox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 15px;
+    width: 100%;
+  }

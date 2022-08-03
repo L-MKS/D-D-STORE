@@ -1,0 +1,74 @@
+.modal-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    color: white;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 30px;
+}
+.title{
+    margin: 0px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+.cols{
+    padding: 5px;
+}
+.remove{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin-top: 0px;
+}
+.remove:hover{
+    background-color: gray;
+    color: white;
+    border: 2px solid white;
+}
+.cartIMG{
+    width: 75px;
+    height: 75px;
+    border: 2px solid black;
+}
+.minus{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin-top: 0px; 
+}
+.minus:hover{
+    background-color: gray;
+    color: white;
+    border: 2px solid white;
+}
+.plus{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin-top: 0px; 
+}
+.plus:hover{
+    background-color: gray;
+    color: white;
+    border: 2px solid white;
+}
+.checkout{
+    width: 200px;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    margin-top: 10px;
+}
+.checkout:hover{
+    background-color: gray;
+    color: white;
+    border: 3px solid white;
+}
+
